@@ -1,7 +1,7 @@
 (function() {
     // URL Endpoint Backend Anda
     // GANTI URL INI DENGAN URL ENDPOINT ANDA YANG SEBENARNYA
-    const BACKEND_ENDPOINT = 'https://backend-rag-chatbot.ngeteh.online';
+    const BACKEND_ENDPOINT = 'https://backend-rag-chatbot.ngeteh.online/chat';
 
     // 1. Definisikan CSS sebagai string (termasuk style untuk loading)
     const chatbotCSS = `

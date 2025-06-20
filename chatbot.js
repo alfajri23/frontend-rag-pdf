@@ -1,4 +1,4 @@
-(function(){const a="https://backend-rag-chatbot.ngeteh.online";const t=`
+(function(){const a="https://backend-rag-chatbot.ngeteh.online/chat";const t=`
         :root {
             --chatbot-primary-color: #007bff;
             --chatbot-bg-color: #ffffff;
