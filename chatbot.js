@@ -1,4 +1,4 @@
-(function(){const a="http://localhost:5000/chat";const t=`
+(function(){const a="http://eggkck4ccwgscc44owgow00g.82.112.238.157.sslip.io";const t=`
         :root {
             --chatbot-primary-color: #007bff;
             --chatbot-bg-color: #ffffff;

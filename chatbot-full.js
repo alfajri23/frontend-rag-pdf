@@ -1,7 +1,7 @@
 (function() {
     // URL Endpoint Backend Anda
     // GANTI URL INI DENGAN URL ENDPOINT ANDA YANG SEBENARNYA
-    const BACKEND_ENDPOINT = 'http://localhost:5000/chat';
+    const BACKEND_ENDPOINT = 'http://eggkck4ccwgscc44owgow00g.82.112.238.157.sslip.io';
 
     // 1. Definisikan CSS sebagai string (termasuk style untuk loading)
     const chatbotCSS = `
