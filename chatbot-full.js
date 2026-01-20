@@ -1,7 +1,7 @@
 (function() {
     // URL Endpoint Backend Anda
     // GANTI URL INI DENGAN URL ENDPOINT ANDA YANG SEBENARNYA
-    const BACKEND_ENDPOINT = 'https://backend-rag-chatbot.ngeteh.online/chat';
+    const BACKEND_ENDPOINT = 'https://backend-rag-chatbot.ngeteh.cloud/chat';
 
     // 1. Definisikan CSS sebagai string (termasuk style untuk loading)
     const chatbotCSS = `
@@ -99,7 +99,6 @@
         .then(data => {
             // Hapus indikator loading
             loadingElement.remove();
-            console.log('Response from backend:', data);
             // Tampilkan balasan dari bot
             // Asumsi backend mengembalikan JSON: { "reply": "Ini balasan bot" }
             // Sesuaikan 'data.reply' jika format respons Anda berbeda
